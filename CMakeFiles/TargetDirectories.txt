@@ -1,0 +1,3 @@
+/Users/mac/Documents/c++/snake/CMakeFiles/snake.dir
+/Users/mac/Documents/c++/snake/CMakeFiles/edit_cache.dir
+/Users/mac/Documents/c++/snake/CMakeFiles/rebuild_cache.dir
